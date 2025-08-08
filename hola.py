@@ -1,4 +1,4 @@
-def saludar(nombre):
+def saludar(nombre: str) -> None:
     print("Hola", nombre)
 
 
